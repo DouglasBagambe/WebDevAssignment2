@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box
+}
+body{
+    font-size: 25px;
+    position: relative;
+}
+p{
+    color: black;
+}
+ul{
+    color: rgb(19, 42, 177);
+}
+figcaption{
+    color: rgb(19, 42, 177);;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    color: darkblue;
+}
+div{
+    text-align: center;
+    width:35%;
+    height: 30vh;
+    display: inline-block;
+}
+a:hover{
+    color: white;
+}
+#bio:hover{
+    background-color: black;
+}
+#photo:hover{
+    background-color: black;
+}
+#education:hover{
+    background-color: black;
+}
+#hobbies:hover{
+    background-color: black;
+}
+#contactme:hover{
+    background-color: black;
+}
+#bio{
+    background-color: gray;
+}
+#photo{
+    background-color: navy;
+    position: absolute;
+    right: 0%;
+}
+#education{
+    background-color: yellowgreen;
+    display: block;
+    margin-left: 35%;
+    width: 30%;
+}
+#hobbies{
+    background-color: rgb(114, 31, 59);
+}
+#contactme{
+    background-color: rgb(37, 116, 116);
+    position: absolute;
+    right: 0%;
+}
+a{
+    color: black;
+}
+span{
+    color: black;
+}
