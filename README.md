@@ -1,1 +1,1 @@
-# WebDevAssignment2
+# WebDevAssignment2 - Class
